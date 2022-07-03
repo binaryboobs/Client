@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\barab\source\repos\Client\Client.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\barab\source\repos\Client\Client.cpp(61,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> C:\Users\barab\source\repos\Client\x64\Debug\Client.exe
